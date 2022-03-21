@@ -1,0 +1,32 @@
+.Card {
+    background: rgb(224, 150, 226);
+    width: 50%;
+    margin: 20px;
+    border: 1px solid black;
+}
+
+.Avatar {
+    background-color: rgb(96, 210, 218);
+    padding: 0.5em;
+    border-bottom: 1px solid black;
+}
+
+.Avatar img {
+    border: 3px solid black;
+}
+
+.Information {
+    font-weight: 500;
+    display: flex;
+    justify-content: center;
+}
+
+.Information ul {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+}
+
+.Information li {
+    margin: 6px;
+}
